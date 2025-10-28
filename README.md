@@ -5,7 +5,7 @@
 Hey, I’m Isarck Eser (@SirIsarck) — a Web3 Product Strategist, DeFi & DePIN Builder, and Content Creator passionate about designing decentralized systems that solve real-world problems.
 
 I focus on building scalable, human-centered blockchain products by combining financial innovation (DeFi) and physical infrastructure (DePIN) to empower communities.
-While I’m not a coder, I specialize in concept design, product structure, storytelling, and strategy, bridging the gap between technology and people. Also I'm building ## SunChain. 
+While I’m not a coder, I specialize in concept design, product structure, storytelling, and strategy, bridging the gap between technology and people. Also I'm building SunChain. 
 
 ## About SunChain: 
 
